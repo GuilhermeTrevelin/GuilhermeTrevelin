@@ -1,4 +1,4 @@
-## Bem vindo ao meu perfil! Meu nome é Guilherme!
+## Olá 👋 meu nome é Guilherme! Seja bem vindo ao meu perfil! 👾 🤖
 
 - 💻 Estudando JavaScript e TypeScript
 - ⚙️ Desenvolvedor BackEnd (Em construção)
