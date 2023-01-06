@@ -1,6 +1,6 @@
 ## Olá 👋 meu nome é Guilherme! Seja bem vindo ao meu perfil! 👾 🤖
 
-- 💻 Estudando JavaScript e TypeScript
+- 💻 Estudando JavaScript
 - ⚙️ Desenvolvedor BackEnd (Em construção)
 ##
 
