@@ -10,7 +10,7 @@
   <img height="180em" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeTrevelin&layout=compact&langs_count=7&theme=aura"/>
 </div>
 
-## Tecnologias que utilizo no meu dia
+## Tecnologias que utilizo no meu dia:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-React" height="35" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
